@@ -97,6 +97,7 @@ export default class Screen extends React.Component {
 
     beacons.on("data", (data) => {
       setBeaconData(data);
+      alert("Beacons detected");
     });
 
     return (
