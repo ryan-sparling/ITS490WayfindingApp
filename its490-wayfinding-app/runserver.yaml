@@ -1,0 +1,6 @@
+homepage:
+  menu:
+    replace:
+
+      - desc: PNW Wayfinding App
+        screenName: pnw-wayfinding-app

@@ -18,6 +18,8 @@
     "@ombiel/aek-asset-store": "^0.0.8",
     "@ombiel/aek-css": "1.x.x",
     "@ombiel/aek-lib": "1.x.x",
+    "@types/mysql": "^2.15.18",
+    "mysql": "^2.18.1",
     "react": "^16.8.6",
     "react-dom": "^16.6.6"
   },
